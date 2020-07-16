@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+- I'm currently a web dev student at O'Clock School :rocket:
+- I discovered programming through Python first :snake:, and now learning HTML, CSS, Bootstrap and other front-end frameworks, as well as PHP, object oriented programming, mySQL, Symfony, React and lots of other "magic" tools :sparkles: I'm curious about everything relative to web dev!
+- 27, based in Paris :fr:
+- I used to work in theatre production :performing_arts: and I'm now doing a professional transition
+
 
 <!--
 **SoleneLivran/SoleneLivran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
