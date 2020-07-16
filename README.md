@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello 👋
 
 - I'm currently a web dev student at O'Clock School :rocket:
 - I discovered programming through Python first :snake:, and now learning HTML, CSS, Bootstrap and other front-end frameworks, as well as PHP, object oriented programming, mySQL, Symfony, React and lots of other "magic" tools :sparkles: I'm curious about everything relative to web development!
