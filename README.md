@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - I'm currently a web dev student at [O'Clock School](https://oclock.io/) :rocket:
-- I discovered programming through Python first :snake:, and now learning HTML, CSS, Bootstrap and other front-end frameworks, as well as PHP, object oriented programming, mySQL, Symfony, React and lots of other "magic" tools :sparkles: I'm curious about everything relative to web development!
+- I discovered programming through Python first :snake:, and now learning HTML, CSS, Bootstrap, as well as PHP, object oriented programming, SQL, Symfony, React and lots of other "magic" tools :sparkles: I'm curious about everything relative to web development, and always eager to learn!
 - 27, based in Paris :fr:
 - I used to work in theatre production :performing_arts: and I'm now doing a professional transition
 - <a href="https://www.linkedin.com/in/solenelivran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" /></a> 
