@@ -41,7 +41,7 @@
 <a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
   <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
 </a>
-<a href="mailto:s.livran@gmail.com">
+<a href="mailto:s.livran@gmail.com" target="_blank">
   <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="s.livran@gmail.com" height="20" width="20" />
 </a>
 <a href="https://twitter.com/lily_solene" target="_blank">
