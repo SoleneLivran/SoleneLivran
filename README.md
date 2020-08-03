@@ -50,3 +50,9 @@
 <a href="https://www.instagram.com/solene_code/" target="_blank">
   <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" alt="instagram @solene_code" height="20" width="20" />
 </a>
+
+<br>
+<br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=solenelivran" alt="solenelivran"/>
+</p>
