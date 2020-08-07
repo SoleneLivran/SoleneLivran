@@ -14,7 +14,6 @@
   <br>
   :eyes: I'm curious about everything relative to web development, and always eager to learn!
   <br>
-  <br>
   <a href="https://solenelivran.github.io/" target="blank">:mag_right: Here</a> is my personal website/portfolio
 </p>
 
