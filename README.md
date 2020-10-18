@@ -1,20 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Solene</h1>
-<h3 align="center">:nerd_face: I'm currently a web dev student at <a href="https://oclock.io/" target="blank">O'Clock School</a> :rocket:</h3>
+<h3 align="center">:rocket: I'm a junior web developer looking for work opportunities, in Paris or remote :rocket:</h3>
 
 <h4 align="left">Learning web dev</h4>
 <p align="left">
   :snake: I discovered programming through Python first and loved it!
   <br>
-  :books: At O'Clock school I learned :sparkles: front-end with HTML, CSS, Bootstrap, Javascript :gear: back-end with PHP, object oriented programming, SQL, APIs :handshake: Agile methodology with SCRUM and tools like git or trello
+  :books: At <a href="https://oclock.io/" target="blank">O'Clock School</a> I learned :sparkles: front-end with HTML, CSS, Bootstrap, Javascript :gear: back-end with PHP, object oriented programming, SQL, APIs :handshake: Agile methodology with SCRUM and tools like git or trello
   <br>
-  :elephant: Now specialising in Symfony
+  :elephant: Then I specialised in Symfony
   <br>
   :sunrise_over_mountains: Exploring Vue.js on my free time
   <br>
-  :eyes: I'm curious about everything relative to web development, and always eager to learn!
-  <br>
-  <a href="https://solenelivran.github.io/" target="blank">:mag_right: Here</a> is my personal website/portfolio
+  :eyes: I usually prefer backend but I'm curious about everything relative to web development, and always eager to learn!
 </p>
 
 <h4 align="left">I know about...</h4>
@@ -52,14 +50,16 @@
   :fr: 27, based in Paris
   <br>
   :performing_arts: I used to work in theatre production
+  <br>
+  <a href="https://solenelivran.github.io/" target="blank">:mag_right:</a> <a href="https://solenelivran.github.io/" target="blank">Here is my personal website/portfolio</a>
 </p>
 
 <h4 align="left">To reach me</h4>
-<a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
-  <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
-</a>
 <a href="mailto:s.livran@gmail.com" target="_blank">
   <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="s.livran@gmail.com" height="20" width="20" />
+</a>
+<a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
+  <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
 </a>
 <a href="https://twitter.com/lily_solene" target="_blank">
   <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" alt="twitter @lily_solene" height="20" width="20" />
