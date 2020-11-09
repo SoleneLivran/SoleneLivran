@@ -55,15 +55,17 @@
 </p>
 
 <h4 align="left">To reach me</h4>
-<a href="mailto:s.livran@gmail.com" target="_blank">
-  <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="s.livran@gmail.com" height="20" width="20" />
-</a>
-<a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
-  <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
-</a>
-<a href="https://twitter.com/lily_solene" target="_blank">
-  <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" alt="twitter @lily_solene" height="20" width="20" />
-</a>
-<a href="https://www.instagram.com/solene_code/" target="_blank">
-  <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" alt="instagram @solene_code" height="20" width="20" />
-</a>
+<p>
+  <a href="mailto:s.livran@gmail.com" target="_blank">
+    <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="s.livran@gmail.com" height="20" width="20" />
+  </a>
+  <a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
+    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
+  </a>
+  <a href="https://twitter.com/lily_solene" target="_blank">
+    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" alt="twitter @lily_solene" height="20" width="20" />
+  </a>
+  <a href="https://www.instagram.com/solene_code/" target="_blank">
+    <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" alt="instagram @solene_code" height="20" width="20" />
+  </a>
+</p>
