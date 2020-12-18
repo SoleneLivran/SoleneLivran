@@ -10,7 +10,7 @@
   <br>
   :elephant: Then I specialised in Symfony
   <br>
-  :sunrise_over_mountains: Exploring Vue.js on my free time
+  :sunrise_over_mountains: I also explored Vue.js on my free time
   <br>
   :eyes: I usually prefer backend but I'm curious about everything relative to web development, and always eager to learn!
 </p>
