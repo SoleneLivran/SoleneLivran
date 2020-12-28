@@ -2,17 +2,20 @@
 <h1 align="center">Hi 👋, I'm Solene</h1>
 <h3 align="center">:rocket: I'm a junior web developer looking for work opportunities, in Paris or remote :rocket:</h3>
 
-<h4 align="left">Learning web dev</h4>
+<h4 align="left">Always learning!</h4>
 <p align="left">
   :snake: I discovered programming through Python first and loved it!
   <br>
-  :books: At <a href="https://oclock.io/" target="blank">O'Clock School</a> I learned :sparkles: front-end with HTML, CSS, Bootstrap, Javascript :gear: back-end with PHP, object oriented programming, SQL, APIs :handshake: Agile methodology with SCRUM and tools like git or trello
+  :books: At <a href="https://oclock.io/" target="blank">O'Clock School</a> I learned : :sparkles: front-end with HTML, CSS, Bootstrap, Javascript :gear: back-end with PHP, object oriented programming, SQL, APIs :handshake: Agile methodology with SCRUM, and tools like git or trello
   <br>
   :elephant: Then I specialised in Symfony
   <br>
   :sunrise_over_mountains: I also explored Vue.js on my free time
   <br>
   :eyes: I usually prefer backend but I'm curious about everything relative to web development, and always eager to learn!
+  <br>
+  <br>
+  <a href="https://solenelivran.github.io/" target="blank">:mag_right:</a> <a href="https://solenelivran.github.io/" target="blank">Here is my personal website/portfolio</a>
 </p>
 
 <h4 align="left">I know about...</h4>
@@ -50,8 +53,6 @@
   :fr: 27, based in Paris
   <br>
   :performing_arts: I used to work in theatre production
-  <br>
-  <a href="https://solenelivran.github.io/" target="blank">:mag_right:</a> <a href="https://solenelivran.github.io/" target="blank">Here is my personal website/portfolio</a>
 </p>
 
 <h4 align="left">To reach me</h4>
