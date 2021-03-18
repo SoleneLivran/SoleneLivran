@@ -6,11 +6,13 @@
 <p align="left">
   :snake: I discovered programming through Python first and loved it!
   <br>
-  :books: At <a href="https://oclock.io/" target="blank">O'Clock School</a> I learned : :sparkles: front-end with HTML, CSS, Bootstrap, Javascript :gear: back-end with PHP, object oriented programming, SQL, APIs :handshake: Agile methodology with SCRUM, and tools like git or trello
+  :books: At <a href="https://oclock.io/" target="blank">O'Clock School</a> I learned : :sparkles: front-end with HTML/CSS, Bootstrap, Javascript :gear: back-end with PHP, object oriented programming, SQL, APIs :handshake: Agile methodology with SCRUM, and tools like git or trello
   <br>
   :elephant: Then I specialised in Symfony
   <br>
   :sunrise_over_mountains: I also explored Vue.js on my free time
+  <br>
+  :nerd_face: I keep on learning everyday with my projects
   <br>
   :eyes: I usually prefer backend but I'm curious about everything relative to web development, and always eager to learn!
   <br>
@@ -50,7 +52,7 @@
 <p align="left">
   :woman: She/Her
   <br>
-  :fr: 27, based in Paris
+  :fr: 28, based in Paris
   <br>
   :performing_arts: I used to work in theatre production
 </p>
@@ -60,11 +62,11 @@
   <a href="mailto:s.livran@gmail.com" target="_blank">
     <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="s.livran@gmail.com" height="20" width="20" />
   </a>
-  <a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
-  </a>
   <a href="https://twitter.com/lily_solene" target="_blank">
     <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" alt="twitter @lily_solene" height="20" width="20" />
+  </a>
+  <a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
+    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
   </a>
   <a href="https://www.instagram.com/solene_code/" target="_blank">
     <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" alt="instagram @solene_code" height="20" width="20" />
