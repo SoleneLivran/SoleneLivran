@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Solene</h1>
-<h3 align="center">:rocket: Junior web developer :rocket:</h3>
+<h3 align="center">:rocket: I'm a junior web developer :rocket:</h3>
 
 <h4 align="left">Always learning!</h4>
 <p align="left">
