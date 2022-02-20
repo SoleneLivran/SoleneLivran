@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Solene</h1>
-<h3 align="center">:rocket: I'm a junior web developer :rocket:</h3>
+<h3 align="center">:rocket: I'm a web developer :rocket:</h3>
+
+<p>:woman_technologist: Currently working at <a href="https://needhelp.com" target="blank">NeedHelp</a></p>
 
 <h4 align="left">Always learning!</h4>
 <p align="left">
@@ -12,7 +13,7 @@
   <br>
   :sunrise_over_mountains: I also explored Vue.js on my free time
   <br>
-  :nerd_face: I keep on learning everyday with my projects
+  :nerd_face: I keep on learning everyday with my personnal projects and professionnal missions
   <br>
   :eyes: I usually prefer backend but I'm curious about everything relative to web development, and always eager to learn!
   <br>
@@ -35,16 +36,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40" height="40"/>
   <br>
-  <img src="https://image.flaticon.com/icons/svg/2111/2111420.svg" alt="git" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/2111/2111432.svg" alt="github" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/518/518713.svg" alt="linux environment" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="linux environment" width="40" height="40"/>
   <br>
-  <img src="https://image.flaticon.com/icons/svg/873/873120.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Heroku" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Amazon Web Services" width="40"/>
   <br>
-  <img src="https://image.flaticon.com/icons/svg/2620/2620481.svg" alt="Agile & SCRUM" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/2111/2111656.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/2111/2111615.svg" alt="Slack" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2649/2649708.png" alt="Agile & SCRUM" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/13432607/29981988-82cec158-8f58-11e7-9f26-473079c2a9b1.png" alt="Trello" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/asana-logo.svg" alt="Asana" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="Slack" width="40" height="40"/>
   
 </p>
 
@@ -52,7 +54,7 @@
 <p align="left">
   :woman: She/Her
   <br>
-  :fr: 28, based in Paris
+  :fr: 29, based in Paris
   <br>
   :performing_arts: I used to work in theatre production
 </p>
@@ -60,15 +62,15 @@
 <h4 align="left">To reach me</h4>
 <p>
   <a href="mailto:s.livran@gmail.com" target="_blank">
-    <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="s.livran@gmail.com" height="20" width="20" />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="s.livran@gmail.com" height="30" width="30" />
   </a>
   <a href="https://twitter.com/lily_solene" target="_blank">
-    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" alt="twitter @lily_solene" height="20" width="20" />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="twitter @lily_solene" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/solenelivran/" height="20" width="20" />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="https://www.linkedin.com/in/solenelivran/" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/solene_code/" target="_blank">
-    <img align="left" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" alt="instagram @solene_code" height="20" width="20" />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram @solene_code" height="30" width="30" />
   </a>
 </p>
