@@ -1,7 +1,8 @@
 
 <h3 align="center">:rocket: I'm a web developer :rocket:</h3>
 
-<p>:woman_technologist: Available for work starting in August or September! Currently working at <a href="https://needhelp.com" target="blank">NeedHelp.com</a></p>
+<p>:woman_technologist: Available for work starting in August or September! My resume is available <a href="https://solenelivran.github.io/assets/docs/cv-livran-web-24.pdf">here</a>.</p>
+<p>:mag_right: <a href="https://solenelivran.github.io/" target="blank">Here is my personal website/portfolio</a></p>
 
 <h4 align="left">Always learning!</h4>
 <p align="left">
@@ -13,12 +14,9 @@
   <br>
   :sunrise_over_mountains: I also explored Vue.js on my free time
   <br>
-  :nerd_face: I keep on learning everyday with my personnal projects and professionnal missions
+  :nerd_face: I keep on learning everyday with my personnal projects and professionnal missions. I'm currently working at <a href="https://needhelp.com" target="blank">NeedHelp.com</a>
   <br>
   :eyes: I usually prefer backend but I'm curious about everything relative to web development, and always eager to learn!
-  <br>
-  <br>
-  <a href="https://solenelivran.github.io/" target="blank">:mag_right:</a> <a href="https://solenelivran.github.io/" target="blank">Here is my personal website/portfolio</a>
 </p>
 
 <h4 align="left">I know about...</h4>
@@ -54,7 +52,7 @@
 <p align="left">
   :woman: She/Her
   <br>
-  :fr: 29, based in Paris
+  :fr: 31, based in Paris
   <br>
   :performing_arts: I used to work in theatre production
 </p>
@@ -64,13 +62,7 @@
   <a href="mailto:s.livran@gmail.com" target="_blank">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="s.livran@gmail.com" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/lily_solene" target="_blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="twitter @lily_solene" height="30" width="30" />
-  </a>
   <a href="https://www.linkedin.com/in/solenelivran/" target="_blank">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="https://www.linkedin.com/in/solenelivran/" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/solene_code/" target="_blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram @solene_code" height="30" width="30" />
   </a>
 </p>
