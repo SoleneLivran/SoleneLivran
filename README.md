@@ -1,7 +1,7 @@
 
 <h3 align="center">:rocket: I'm a web developer :rocket:</h3>
 
-<p>:woman_technologist: Currently working at <a href="https://needhelp.com" target="blank">NeedHelp</a></p>
+<p>:woman_technologist: Available for work starting in August or September! Currently working at <a href="https://needhelp.com" target="blank">NeedHelp.com</a></p>
 
 <h4 align="left">Always learning!</h4>
 <p align="left">
