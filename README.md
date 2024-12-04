@@ -1,7 +1,7 @@
 
 <h3 align="center">:rocket: I'm a web developer :rocket:</h3>
 
-<p>:woman_technologist: Available for work starting in August or September! My resume is available <a href="https://solenelivran.github.io/assets/docs/cv-livran-web-24.pdf">here</a>.</p>
+<p>:woman_technologist: My resume is available <a href="https://solenelivran.github.io/assets/docs/cv-livran-web-24.pdf">here</a>.</p>
 <p>:mag_right: <a href="https://solenelivran.github.io/" target="blank">Here is my personal website/portfolio</a></p>
 
 <h4 align="left">Always learning!</h4>
